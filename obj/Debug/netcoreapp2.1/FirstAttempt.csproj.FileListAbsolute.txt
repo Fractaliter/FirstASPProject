@@ -12,3 +12,17 @@ C:\Users\kwawrzkiewicz\Desktop\private\Projects\FirstAttempt\obj\Debug\netcoreap
 C:\Users\kwawrzkiewicz\Desktop\private\Projects\FirstAttempt\obj\Debug\netcoreapp2.1\FirstAttempt.RazorTargetAssemblyInfo.cache
 C:\Users\kwawrzkiewicz\Desktop\private\Projects\FirstAttempt\obj\Debug\netcoreapp2.1\FirstAttempt.dll
 C:\Users\kwawrzkiewicz\Desktop\private\Projects\FirstAttempt\obj\Debug\netcoreapp2.1\FirstAttempt.pdb
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\bin\Debug\netcoreapp2.1\FirstAttempt.deps.json
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\bin\Debug\netcoreapp2.1\FirstAttempt.runtimeconfig.json
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\bin\Debug\netcoreapp2.1\FirstAttempt.runtimeconfig.dev.json
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\bin\Debug\netcoreapp2.1\FirstAttempt.dll
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\bin\Debug\netcoreapp2.1\FirstAttempt.pdb
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.csprojAssemblyReference.cache
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.csproj.CoreCompileInputs.cache
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.RazorAssemblyInfo.cache
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.RazorAssemblyInfo.cs
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.AssemblyInfoInputs.cache
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.AssemblyInfo.cs
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.RazorTargetAssemblyInfo.cache
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.dll
+C:\Users\kwawrzkiewicz\Desktop\Private\GIT\FirstASPProject\obj\Debug\netcoreapp2.1\FirstAttempt.pdb
